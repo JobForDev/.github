@@ -153,7 +153,7 @@ JobForDev/
 - 🐙 **GitHub**: [@JobForDev](https://github.com/JobForDev)
 - 💬 **Discussions**: Open a discussion in any repository
 - 🐛 **Issues**: Report problems or ask questions via Issues
-- 📧 **Email**: [Coming Soon]
+- 📧 **Email**: [click here](mailto:contact+jobs@doganddev.eu)
 
 ---
 
